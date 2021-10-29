@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+}
+#container2{
+    width:960px;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: purple;
+}
+.menu_simple{
+    width: 960px;
+    height: 40px;
+    float: left;
+    margin-top: 40px;
+    background-color:purple;
+}
+.menu_simple ul{
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+.menu_simple ul li{
+    display: inline;
+}
+.menu_simple ul li a{
+    float: left;
+    text-decoration: none;
+    color: white;
+    padding: 10.5px 11px;
+    margin-left: px;
+    background-color:purple;
+}
+.menu_simple ul li a:visited{
+    color: white;
+}
+.menu_simple ul li a:hover{
+    color: white;
+    background-color:black;
+}
