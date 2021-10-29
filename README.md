@@ -3,7 +3,7 @@
 ## 💻 Project
 This repository contains a project done in the web classes.
 
-<img align="right" width="300px" src="./print-cineflix.PNG" />
+<img align="right" width="500px" src="./print-cineflix.PNG" />
 
 ## 🔑 Why
  This project is part of my personal study portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer! 
